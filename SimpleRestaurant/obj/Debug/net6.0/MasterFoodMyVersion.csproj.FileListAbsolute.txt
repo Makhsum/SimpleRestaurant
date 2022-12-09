@@ -1,0 +1,15 @@
+/home/makhsum/RiderProjects/MasterFoodMyVersion/MasterFoodMyVersion/bin/Debug/net6.0/MasterFoodMyVersion
+/home/makhsum/RiderProjects/MasterFoodMyVersion/MasterFoodMyVersion/bin/Debug/net6.0/MasterFoodMyVersion.deps.json
+/home/makhsum/RiderProjects/MasterFoodMyVersion/MasterFoodMyVersion/bin/Debug/net6.0/MasterFoodMyVersion.runtimeconfig.json
+/home/makhsum/RiderProjects/MasterFoodMyVersion/MasterFoodMyVersion/bin/Debug/net6.0/MasterFoodMyVersion.dll
+/home/makhsum/RiderProjects/MasterFoodMyVersion/MasterFoodMyVersion/bin/Debug/net6.0/MasterFoodMyVersion.pdb
+/home/makhsum/RiderProjects/MasterFoodMyVersion/MasterFoodMyVersion/obj/Debug/net6.0/MasterFoodMyVersion.csproj.AssemblyReference.cache
+/home/makhsum/RiderProjects/MasterFoodMyVersion/MasterFoodMyVersion/obj/Debug/net6.0/MasterFoodMyVersion.GeneratedMSBuildEditorConfig.editorconfig
+/home/makhsum/RiderProjects/MasterFoodMyVersion/MasterFoodMyVersion/obj/Debug/net6.0/MasterFoodMyVersion.AssemblyInfoInputs.cache
+/home/makhsum/RiderProjects/MasterFoodMyVersion/MasterFoodMyVersion/obj/Debug/net6.0/MasterFoodMyVersion.AssemblyInfo.cs
+/home/makhsum/RiderProjects/MasterFoodMyVersion/MasterFoodMyVersion/obj/Debug/net6.0/MasterFoodMyVersion.csproj.CoreCompileInputs.cache
+/home/makhsum/RiderProjects/MasterFoodMyVersion/MasterFoodMyVersion/obj/Debug/net6.0/MasterFoodMyVersion.dll
+/home/makhsum/RiderProjects/MasterFoodMyVersion/MasterFoodMyVersion/obj/Debug/net6.0/refint/MasterFoodMyVersion.dll
+/home/makhsum/RiderProjects/MasterFoodMyVersion/MasterFoodMyVersion/obj/Debug/net6.0/MasterFoodMyVersion.pdb
+/home/makhsum/RiderProjects/MasterFoodMyVersion/MasterFoodMyVersion/obj/Debug/net6.0/MasterFoodMyVersion.genruntimeconfig.cache
+/home/makhsum/RiderProjects/MasterFoodMyVersion/MasterFoodMyVersion/obj/Debug/net6.0/ref/MasterFoodMyVersion.dll

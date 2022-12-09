@@ -1,0 +1,15 @@
+/home/makhsum/RiderProjects/MasterFoodMyVersion/SimpleRestaurant/bin/Debug/net6.0/SimpleRestaurant
+/home/makhsum/RiderProjects/MasterFoodMyVersion/SimpleRestaurant/bin/Debug/net6.0/SimpleRestaurant.deps.json
+/home/makhsum/RiderProjects/MasterFoodMyVersion/SimpleRestaurant/bin/Debug/net6.0/SimpleRestaurant.runtimeconfig.json
+/home/makhsum/RiderProjects/MasterFoodMyVersion/SimpleRestaurant/bin/Debug/net6.0/SimpleRestaurant.dll
+/home/makhsum/RiderProjects/MasterFoodMyVersion/SimpleRestaurant/bin/Debug/net6.0/SimpleRestaurant.pdb
+/home/makhsum/RiderProjects/MasterFoodMyVersion/SimpleRestaurant/obj/Debug/net6.0/SimpleRestaurant.csproj.AssemblyReference.cache
+/home/makhsum/RiderProjects/MasterFoodMyVersion/SimpleRestaurant/obj/Debug/net6.0/SimpleRestaurant.GeneratedMSBuildEditorConfig.editorconfig
+/home/makhsum/RiderProjects/MasterFoodMyVersion/SimpleRestaurant/obj/Debug/net6.0/SimpleRestaurant.AssemblyInfoInputs.cache
+/home/makhsum/RiderProjects/MasterFoodMyVersion/SimpleRestaurant/obj/Debug/net6.0/SimpleRestaurant.AssemblyInfo.cs
+/home/makhsum/RiderProjects/MasterFoodMyVersion/SimpleRestaurant/obj/Debug/net6.0/SimpleRestaurant.csproj.CoreCompileInputs.cache
+/home/makhsum/RiderProjects/MasterFoodMyVersion/SimpleRestaurant/obj/Debug/net6.0/SimpleRestaurant.dll
+/home/makhsum/RiderProjects/MasterFoodMyVersion/SimpleRestaurant/obj/Debug/net6.0/refint/SimpleRestaurant.dll
+/home/makhsum/RiderProjects/MasterFoodMyVersion/SimpleRestaurant/obj/Debug/net6.0/SimpleRestaurant.pdb
+/home/makhsum/RiderProjects/MasterFoodMyVersion/SimpleRestaurant/obj/Debug/net6.0/SimpleRestaurant.genruntimeconfig.cache
+/home/makhsum/RiderProjects/MasterFoodMyVersion/SimpleRestaurant/obj/Debug/net6.0/ref/SimpleRestaurant.dll
